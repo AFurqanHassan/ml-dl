@@ -1,0 +1,51 @@
+# Core Machine Learning & Data Science
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+pystac-client
+odc-stac
+planetary-computer
+contextily
+
+# Geospatial Data Science
+geopandas
+geodatasets
+rasterio
+rioxarray
+shapely
+pyproj
+
+# Deep Learning (Defaulting to PyTorch)
+torch
+torchvision
+torchaudio
+ultralytics
+
+# NLP & Text Processing
+nltk
+gensim
+transformers
+
+# LLM & Generative AI (Module 5)
+ollama
+tiktoken
+peft
+datasets
+trl
+bitsandbytes
+accelerate
+
+# Notebook & Environment
+jupyter
+ipykernel
+notebook
+
+# Other Utilities
+scipy
+tqdm
+requests
+imbalanced-learn
