@@ -17,9 +17,7 @@ This guide documents the datasets included in this repository.
 | Testing    | 6,149     |
 | **Total**  | **8,189** |
 
-**Used in:**
-
-- [Module 4: Transfer Learning with ResNet](../module_4_cv_nlp/transfer_learning_flowers.ipynb)
+- [Module 4: Transfer Learning with ResNet](../4_cv_nlp/transfer_learning_flowers.ipynb)
 
 **Format:**
 

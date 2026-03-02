@@ -33,6 +33,14 @@ wheels/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# Large Data Files (Datasets)
+data/
+*/data/
+*.zip
+*.tgz
+*.tar.gz
+*.mat
+
 # OS-specific
 .DS_Store
 Thumbs.db
