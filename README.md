@@ -8,7 +8,7 @@ Welcome to your hands-on learning path from Machine Learning basics to Large Lan
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
+git clone https://github.com/AFurqanHassan/ml-dl.git
 cd ml-dl
 
 # 2. Create virtual environment
@@ -116,4 +116,3 @@ This is a learning resource. Feedback and improvements are welcome!
 
 ---
 
-_Learning path from ML fundamentals to LLMs with geospatial applications._
